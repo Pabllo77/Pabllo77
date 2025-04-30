@@ -1,6 +1,12 @@
 # Salut! Eu sunt Paul 👋
 
-Sunt pasionat de web design, optimizare site-uri și performanță. Am lucrat la mai multe proiecte în WordPress și folosind constructorul PageLayer/ Elementor.
+Hobby = web design, optimizare site-uri și performanță;
+Job = transport maritim si logistica
+
+
+Am lucrat la mai multe proiecte în WordPress și folosind constructorul PageLayer/ Elementor.
+Lucrez cu Java mici proiecte si Selenium partea de automation.
+Detin cursuri de QA manual si automat.
 
 ---
 
