@@ -6,16 +6,18 @@ Sunt pasionat de web design, optimizare site-uri și performanță. Am lucrat la
 
 ## 🌐 Proiect Web 1
 
-- [Luisamateescu.com](https://luisamateescu.com)
-  Website de prezentare vanzare containere maritime si accesorii containere. Design responsive, optimizat pentru viteză și indexare Google.
+- [LuisaMateescu.com](https://luisamateescu.com)
+
+Website de prezentare si magazin on-line pentru un consultant vamal. Design responsive, optimizat pentru viteză și indexare Google.
 
 ---
 
-## 🚀 Performanță (LuisAmateescu.com)
+## 🚀 Performanță (LuisaMateescu.com)
 
-- - PageSpeed Score: 86/91/93/92 (mobil), 70/91/96/92 (desktop) - acestea fiind in crestere(site neterminat inca dpdv text SEO).
+- - PageSpeed Score: 86/91/93/92 (mobil), 70/91/96/92 (desktop)
 - Tehnologii: WordPress + PageLayer
 - Optimizări: imag, seo text, optimizare imagini
+- **Notă**: Site-ul este în curs de finalizare din punct de vedere al conținutului SEO.
 
 ---
 
@@ -24,7 +26,8 @@ Promovare doar pe baza de SEO a site-ului si serviciilor!
 ## 🌐 Proiect Web 2
 
 - [shipee.ro](https://shipee.ro)  
-  Website de prezentare si magazin on-line pentru un consultant vamal. Design responsive, optimizat pentru viteză și indexare Google.
+ 
+Website de prezentare vanzare containere maritime si accesorii containere. Design responsive, optimizat pentru viteză și indexare Google.
 
 ---
 
