@@ -38,4 +38,4 @@ Promovare doar pe baza de SEO a site-ului si serviciilor!
 
 Promovare doar pe baza de SEO a site-ului si serviciilor!
 
-📫 **Contact:** (mailto:paul@email.com) | (www.linkedin.com/in/paul-mateescu) | www.pabllo.ro
+📫 **Contact:** (paul@pabllo.ro) | (www.linkedin.com/in/paul-mateescu) | www.pabllo.ro
