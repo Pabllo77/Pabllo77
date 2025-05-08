@@ -25,6 +25,19 @@ Website de prezentare si magazin on-line pentru un consultant vamal. Design resp
 - Optimizări: imag, seo text, optimizare imagini
 - **Notă**: Site-ul este în curs de finalizare din punct de vedere al conținutului SEO.
 
+- Final: without using any CDN like Cloudflare
+  
+Mobile Performance (PageSpeed Insights):
+Performance: 92
+Accessibility: 91
+Best Practices: 96
+SEO: 92
+Desktop Results - Google PageSpeed Insights:
+Performance: 100
+Accessibility: 90
+Best Practices: 96
+SEO: 92
+
 ---
 
 Promovare doar pe baza de SEO a site-ului si serviciilor!
@@ -44,7 +57,19 @@ Website de prezentare vanzare containere maritime si accesorii containere. Desig
 - Optimizări: imag, seo text, optimizare imagini
 
 ---
+- Final: without using any CDN like Cloudflare
 
+Mobile Results - Google PageSpeed Insights:
+Performance: 95
+Accessibility: 91
+Best Practices: 96
+SEO: 100
+Desktop Results - Google PageSpeed Insights:
+Performance: 96
+Accessibility: 91
+Best Practices: 96
+SEO: 100
 Promovare doar pe baza de SEO a site-ului si serviciilor!
+
 
 📫 **Contact:** (paul@pabllo.ro) | (www.linkedin.com/in/paul-mateescu) | www.pabllo.ro
