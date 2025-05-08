@@ -25,8 +25,7 @@ Website de prezentare si magazin on-line pentru un consultant vamal. Design resp
 - Optimizări: imag, seo text, optimizare imagini
 - **Notă**: Site-ul este în curs de finalizare din punct de vedere al conținutului SEO.
 
-- Final: without using any CDN like Cloudflare
-  
+- Final: without using any CDN like Cloudflare:
 Mobile Performance (PageSpeed Insights):
 Performance: 92
 Accessibility: 91
@@ -57,8 +56,7 @@ Website de prezentare vanzare containere maritime si accesorii containere. Desig
 - Optimizări: imag, seo text, optimizare imagini
 
 ---
-- Final: without using any CDN like Cloudflare
-
+- Final: without using any CDN like Cloudflare:
 Mobile Results - Google PageSpeed Insights:
 Performance: 95
 Accessibility: 91
